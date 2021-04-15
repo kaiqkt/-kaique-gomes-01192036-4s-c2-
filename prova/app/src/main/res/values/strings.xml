@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">prova</string>
+    <string name="id_cachorro">Id Chachorro</string>
+    <string name="btn_comprar">comprar cachorros</string>
+    <string name="not">Deu ruim... Nenhum cachorro encontrado com os ids %1$s e %2$s</string>
+    <string name="cachorro1">Cachorro 1: %1$s</string>
+    <string name="cachorro2">Cachorro 2: %1$s</string>
+    <string name="total">Preço total de compra: R$%1$s</string>
+</resources>
