@@ -47,8 +47,7 @@
         android:layout_marginTop="50dp"
         android:layout_below="@id/id_cachorro2"
         android:onClick="comprar"
-        android:text="@string/btn_comprar"
-        app:backgroundTint="#2C73DD" />
+        android:text="@string/btn_comprar" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -77,6 +76,12 @@
             android:background="@drawable/marley" />
 
     </LinearLayout>
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sw" />
 
 
 
